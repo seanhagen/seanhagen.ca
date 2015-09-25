@@ -44,8 +44,22 @@
       {% endif %}
     </article>
     {% endfor %}
+    <a href="{{ site.url }}/posts/">More Posts</a>
 
-    <a href="{{ site.url }}/posts">More Posts</a>
+    {% if site.projects.count %}
+    <h3 class="projects"><a href="{{ site.url}}/projects/">Recent Projects</a></h3>
+    {% for post in site.projects limit:5 %}
+    <article>
+      {% if post.link %}
+        <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></h2>
+      {% else %}
+        <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+        <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
+      {% endif %}
+    </article>
+    {% endfor %}
+    <a href="{{ site.url }}/projects/">More Projects</a>
+    {% endif %}
   </div><!-- /#index -->
 </div><!-- /#main -->
 

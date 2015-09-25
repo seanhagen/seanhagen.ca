@@ -7,13 +7,13 @@ categories: [health,metrics]
 ---
 So, last weekend I finally made a purchase I've been thinking about for a few months now. I picked up the [FitBit Aria](https://www.fitbit.com/aria) and the [FitBit Flex](https://www.fitbit.com/flex).
 
-[{% img https://farm8.staticflickr.com/7532/15946876137_65914d6784.jpg "FitBit Flex" %}](https://www.flickr.com/photos/rebelcan/15946876137)
+[{% image fitbit.jpg %}](https://www.flickr.com/photos/rebelcan/15946876137)
 
 <!-- more -->
 
 Personal metrics is somtheing that I've been interested in for a while. A while ago I got a [Garmin Edge 500](https://buy.garmin.com/en-US/US/into-sports/cycling/edge-500/prod36728.html) so that I could track my bike rides. I also picked up a [Mio Link](http://www.mioglobal.com/Mio-LINK-Heart-Rate-Band-Grey/Product.aspx?ProductID=14) so that I could track my heart rate too -- I didn't want to get the [chest strap heart rate monitor](https://buy.garmin.com/en-US/US/shop-by-accessories/fitness-sensors/soft-strap-premium-heart-rate-monitor/prod15490.html) because it just seemed super unconfortable. I'd much rather have something on my wrist than wrapped around my chest.
 
-[{% img https://farm8.staticflickr.com/7523/15946875377_3c5a968d11.jpg "FitBit Aria" %}](https://www.flickr.com/photos/rebelcan/15946875377)
+[{% image fitbit-aria.jpg %}](https://www.flickr.com/photos/rebelcan/15946875377)
 
 Anyways.
 

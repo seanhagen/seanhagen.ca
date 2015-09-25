@@ -12,7 +12,7 @@ It was pretty fun! It's only the second time I've ever soldered something togeth
 
 This seemed to go pretty well though. Take a look!
 
-[{% img flickr-link http://farm3.staticflickr.com/2808/11958574583_7dff1ba838.jpg 500 500 "Minty Boost -- Partially Assembled" %}][3]
+[{% image mintyboost-1.jpg %}][3]
 
 <!-- more -->
 

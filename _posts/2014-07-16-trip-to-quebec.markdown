@@ -16,7 +16,7 @@ Hit the jump to get a full rundown of our adventure.
 
 We arrived in Montreal around 3pm, and picked up our Thrifty rental car. We missed a few things on the rental form, which caused some unhappiness later on -- but I'll get into that on another post. We drove into Montreal, and found the AirBNB place that we had booked for two nights. Finding parking was a whole different ball game though. We managed to find some parking that was about a ten minute walk from where we were staying, and it was free too.
 
-{% image  https://farm4.staticflickr.com/3867/14479034800_420a2593dd.jpg alt='Montreal' %}
+{% image montreal-street.jpg %}
 
 After we 'checked in', we went out to wander St Catherine's street. We saw about 8 bachelorette parties, and only one bachelor party. I wonder how far people come from to have a bachelor party in Montreal -- especially on St. Catherine's street, where there's all sorts of strip bars.
 
@@ -26,7 +26,7 @@ In the morning, we drove around trying to find a better place to park the car. W
 
 We took the Metro to a station near Old Montreal, and we wandered around for a bit. Eventually we found a spot with a patio to have some lunch. I had a notebook, and wrote down my first thoughts on being in Montreal again. Basically, it boiled down to: low, and old. Montreal ( outside of the downtown core ) doesn't seem to have many buildings over four or five stories. There's also a bunch of buildings that are pretty old. There are probably a few in Vancouver that are about as old, but there are way more in Montreal.
 
-{% image https://farm4.staticflickr.com/3897/14479004810_df6632c0cf.jpg alt='Fake Beach' %}
+{% image montreal-beach.jpg %}
 
 After lunch, we wandered around the old port along the St Laurent. They've got a nice artifical white sand beach, which probably isn't too easy to find along a river like the St Laurent. After wandering around for a bit, we decided to find some shade to take a rest in -- it was pretty warm out int he open. We took the Metro to Sherbrooke, and walked to Espace La Fontaine -- a nice little park. We lazed about by a pond for an hour or so, taking it easy. For a little while, I watched a few guys sail remote control sailboats on the pond. That's not something I've seen much out on this coast -- people sailing tiny boats on park ponds. I know we probably don't have as many as they do out east -- it makes me wonder if it's part of the sailing club culture that might be a bit stronger out east. Whatever.
 
@@ -36,13 +36,13 @@ Eventually we started wandering around again, and ended up getting some gelatto 
 
 After we woke up in the morning, we found our way to Fairmont Bagels. We picked up some bagels, and sat down outside to have a few for breakfast. Afterwards, we tried to head to another microbrewery. We figured we could pick up a growler for after we finished travelling. Unfortunately, they didn't open until 3pm, and we wanted to be on the road. Once we got back on the road, we promptly got lost trying to leave Montreal.
 
-{% image https://farm6.staticflickr.com/5511/14642676306_09587c59fb.jpg alt='Awesome Bagels' %}
+{% image montreal-bagel.jpg %}
 
 We drove to Chambly. Our original plan was to try and go on tours at two microbreweries, but one was closed on Mondays, and Unibroue doesn't do tours ( boourns ). We made our way to Magog via the scenic route. It was a pretty awesome drive, and it reminded me why I enjoy road trips so much.
 
 We stoped at La Memphré for dinner, a microbrewery pretty close to the water in Magog. They had some pretty awesome beer!. I had the sampler, six different beers. I really liked their Kilt Scotch Ale, but it wasn't the right time of the day for that kind of beer. It would have been a lot better at night when it was a bit cooler. I ended up getting a pint of the Luna de Miel ( the Honey Moon ), which ended up being an AWESOME summer beer. While we were having dinner, we made planned out what were were going to be doing with the rest of our day. We ended up deciding that we were going to head to Trois-Rivières, and spend the night there. We booked a room at the Hotel Motel Coconut, which ended up being a lot nicer than we thought it'd be. It had two bars! Both of them were Tiki themed.
 
-{% image https://farm6.staticflickr.com/5504/14665303382_08ff926a6f.jpg alt='Planning Our Next Steps' %}
+{% image monreal-trip-planning.jpg %}
 
 
 # June 24th
@@ -53,7 +53,7 @@ We found a spot to park in a pay lot by the port. It was 12 cents per minute, wh
 
 It was getting close to noon, so we wandered over the the section of old Quebec near the port. We found a place to have lunch, "[Le Lapin Sauté](2)", where we got to sit outside under some trees. It was a pretty awesome place to have lunch. We had poutine with rabbit meat, and rabbit with two mustard sauce -- both of which were super tasty. I'm now a fan of rabbit. I wonder how it stacks up, health-wise, against stuff like chicken and beef. Were also sitting between two tables full of French naval officers. Apparently there was a ship from the French navy docked for the day, presumably to give all the sailors some shore leave. I wonder why they picked that day[^1]. I didn't get the name of the ship though, which I'm a bit sad about.
 
-{% image https://farm4.staticflickr.com/3898/14479063369_03baa73e28.jpg alt='Le Lapin Sauté' %}
+{% image quebec-le-lapin.jpg %}
 
 After lunch, we walked up ( and up, and up, and up ) to the [Governor's Promenade](3). We ended up walking all the way around the fort, but we didn't go in. By the time we got onto the promenade, it was starting to get a bit miserable out. When we got to the top of the hill where the fort is, it was raining. Not hard, but enough to make us want to bail on our plans for the day. We ended up deciding to head to Marie's parents campsite a day early.
 
@@ -61,7 +61,7 @@ We decided to salvage what we could of the day though, and took a scenic route f
 
 # June 25th
 
-{% image https://farm4.staticflickr.com/3849/14479202777_f5c614fb72.jpg alt='The Campsite' %}
+{% image quebec-motorhome.jpg %}
 
 I got out of bed around 10am. Everyone else had woken up much earlier and had started to get the boat ready for the day. Marie, her brother and I took the boat out for a quick spin, and then came back for lunch. After lunch, I went out with Marie's brother to go fishing for a bit. I haven't been fishing since I was a young kid, and I had been looking forward to going out again. It was pretty much what I expected: relaxing and fun, even though I didn't catch anything.
 
@@ -87,7 +87,7 @@ Once we parked the car, I took at look at the trip odometer. We hit 2000km exact
 
 We checked in our bags and headed to our gate, looking forward to our flight. However, we thought that we had booked a direct flight from Montreal to Vancouver. Ours had a layover in Winnipeg. Because of some stormy and windy weather, our flight was delayed an hour and a half. Once we finally arrived in Winnipeg, we found out our flight to Vancouver had been cancelled because of the weather. We ended up sleeping in the airport, which was no fun at all. I only got about two hours of sleep.
 
-{% image https://farm4.staticflickr.com/3857/14662484841_5c4898a2a7.jpg alt='Delayed!' %}
+{% image airport-wait.jpg %}
 
 # June 30th
 

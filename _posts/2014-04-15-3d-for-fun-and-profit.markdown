@@ -35,20 +35,20 @@ Thankfully, there was another solution.
 
 The cameras that ThreeJS offers has a [setViewoffset][6] method, which allows developers to take the view from a single camera and split it up so that it can be rendered in multiple parts. The code ended up being pretty simple. Take a look:
 
-{% codeblock [lang:coffeescript ] [ThreeJS setViewOffset ] [linenos:true] %}
+{% highlight coffeescript %}
     screen_width = window.innerWidth/2
     screen_height = window.innerHeight*2
-    
+
     renderer.setViewport 0, 0, screen_width, screen_height
     renderer.clear()
 
     fraction = 1/@NUM_SCREENS
     num = @NUM_SCREENS
-    
+
     viewport_height = window.innerHeight
     viewport_width = window.innerWidth * fraction
     viewport_y = 0
-    
+
     offset_height = screen_height * fraction
     offset_width = screen_width
     offset_x = 0
@@ -57,15 +57,15 @@ The cameras that ThreeJS offers has a [setViewoffset][6] method, which allows de
 
     _.each range, (index) =>
       i = index - 1
-            
+
       offset_y = (i * offset_height)
       @camera.setViewOffset screen_width, screen_height, offset_x, offset_y, offset_width, offset_height
       @camera.updateProjectionMatrix()
 
-      viewport_x = (i * viewport_width)            
+      viewport_x = (i * viewport_width)
       renderer.setViewport viewport_x,viewport_y,viewport_width, viewport_height
       renderer.render @scene.scene, @camera.camera
-{% endcodeblock %}
+{% endhighlight %}
 
 This saved my bacon. Hopefully it will help someone else.
 
