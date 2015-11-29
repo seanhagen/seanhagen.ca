@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, responsive]
+title: About Sean
+tags: [about, sean]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 image:
@@ -10,16 +10,10 @@ image:
   creditlink: https://www.flickr.com/photos/rebelcan/2309011771
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+### Who The Hell Are You
 
-## Minimal Mistakes is all about:
+I'm a developer living in near Vancouver, British Columbia. I've worked for a wide variety of companies in the past, but always doing stuff related to web development. I cut my teeth as a youngin on [Perl](1), later picking up [PHP](2). For the last few years, I've been using [Ruby](3) to get stuff done -- although lately I'm picking up [Go](4) and [Clojure](5). I've also spent the last few years learning all sorts of fun [DevOps](6) stuff like [Puppet](7) and [OpenStack](8).
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
+### Anything Else?
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+I'm also learning how to do more hardware based stuff with [Arduino](9) and the [Raspberry Pi](10). I'm not the best at soldering yet, but I'm getting better.
