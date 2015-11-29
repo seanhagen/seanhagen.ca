@@ -24,7 +24,7 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  use_coderay: false
+  enable_coderay: false
 
 image:
   source: assets/images/_fullsize
@@ -56,15 +56,15 @@ owner:
     ad-slot:
   bing-verify:
   github: seanhagen
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  stackoverflow: 62225/sean-hagen
   linkedin: #username
   xing: #username
   instagram: seanpatrickhagen
   lastfm: #username
   tumblr: #username
-  pinterest: #username
+  pinterest: seanhagen
   foursquare: #username
-  steam: #username
+  steam: seanhagen
   dribbble: #username
   youtube: #username
   soundcloud: #username
