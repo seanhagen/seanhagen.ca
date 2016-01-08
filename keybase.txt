@@ -1,0 +1,66 @@
+==================================================================
+https://keybase.io/seanhagen
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://seanhagen.ca
+  * I am seanhagen (https://keybase.io/seanhagen) on keybase.
+  * I have a public key with fingerprint A1C5 3473 CFD5 F587 B83C  0B39 78FD 721B AAD2 F03A
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "a1c53473cfd5f587b83c0b3978fd721baad2f03a",
+            "host": "keybase.io",
+            "key_id": "78fd721baad2f03a",
+            "kid": "0101cb44222d83659039dce62022774f4df670fb3fb5ec035b762bede081df7541800a",
+            "uid": "5fa5a1b3ee584c462ab73e97e5445619",
+            "username": "seanhagen"
+        },
+        "service": {
+            "hostname": "seanhagen.ca",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1433191997,
+    "expire_in": 157680000,
+    "prev": "9c3d8942ab67abf4929a06bcd5480b4bc6947c3786f27ffe668951c8cacba7cb",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2.0.22 (GNU/Linux)
+
+owFtkmtIFFEUx3fXR2YIPSDE1Gh6QLXZzNyZuTNrQfXBtJBKiSyp5d47d9Zpt9l1
+drSkFCPInqRFT+iDCdUHE5UgMyUQMqQS0jI0JR8EJlRQGFKozUh9iT5dzjm/8z/3
+fzjVSTEuj9s/khA49H4m0/3iE3btDXVuPc7gsFrG+I4zQTr3aLoRoGbE1A2L8TGI
+IyIQICCaKmqiDLEMCIuBAmVNhTyHEVJ5jQWI8TJF4ajTYctgFKUZetjO2YFfV+3s
+f/jgXIHlWI5gQeB5XpWBJCosUFRCJZ7leQgFTVA1CbIaBhoWKWGBiKHEY6pSVuZU
+DYoCJ7OsI1cyJydqSEQcBpSKskAEiUcYAqpAKgqCKHGKA0apaaAj1KajFBlFKEAN
+ptxrB2apTqizA8fKv0gGcaZEzLAVJuGQXSmyrIjPabTKIg55lGL/Hw0/1g3V3qPd
+UErNqB42GB9nk8TSHVFOAIBTOEWBXoYei+gm9esOIULJNsOyzhhaaksqBKiyItgm
+JIiwJii8glgJE1UUZBYLmEiKAAmAsqTxUNOoJMmKyBGZIIIRJJhxXBUbYcYn2t9E
+AcePHjCQVWJSxlOeeNadGutye1zxcR7nFlyJ8xf+PZBFWfNm1iYP8JPVj677p9uf
+nuq7dj/r9boHsx3WiaTx2RgPDKU39cygpCcbWt/l1o4E+gZqfrZ2pj1zNw71H57o
+rp+OXT9cNaseCI6Ot+/YyRdOtak/gs3prbcKng8+Wtxbkd94qyu3d/X5ibhJvP9i
+9pKm/ImDOT9G2wqBZ7gX9ZwBBfVc2cfur98en01f413Rsii0q3/j3eJl40ztZS7+
+zq+U1uy8wZOhJVX7sj+PuW9MvNmqrJIapKVf8mPZzL4r2TcvJQx9uDqwPTWvsnOq
+4WHygpTNe/jSiuZA4cuclS2vlu8ue9tkdRnflbqO4KZzMfT2FnWsZrSmatvkvQt1
+NZVtZtrp3w==
+=xocN
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/seanhagen
+
+==================================================================
