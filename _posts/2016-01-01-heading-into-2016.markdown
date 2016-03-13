@@ -4,6 +4,7 @@ title: Heading Into 2016
 modified:
 categories:
 excerpt:
+comments: true
 tags: []
 image:
   feature:

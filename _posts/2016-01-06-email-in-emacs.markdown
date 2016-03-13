@@ -5,6 +5,7 @@ modified:
 categories:
 excerpt:
 tags: [emacs]
+comments: true
 image:
   feature:
 date: 2016-01-06T22:22:50-08:00
