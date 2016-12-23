@@ -5,7 +5,7 @@ modified:
 categories: 
 excerpt: Turns out the universe has it out for me this week, but I manage to eventually sort things out. Universe still spiteful, though.
 comments: true
-tags: []
+tags: [travel christmas horrible]
 image:
   feature:
 date: 2016-12-23T06:31:24-08:00
