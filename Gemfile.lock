@@ -40,6 +40,8 @@ GEM
       octopress-hooks (~> 2.0)
     octopress-hooks (2.6.1)
       jekyll (>= 2.0)
+    octopress-image-tag (1.1.0)
+      jekyll
     posix-spawn (0.3.11)
     pygments.rb (0.6.3)
       posix-spawn (~> 0.3.6)
@@ -64,6 +66,7 @@ DEPENDENCIES
   jekyll-sitemap
   mini_magick
   octopress (~> 3.0.0.rc.12)
+  octopress-image-tag
   pygments.rb
 
 BUNDLED WITH
