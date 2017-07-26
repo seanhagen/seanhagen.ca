@@ -2,7 +2,7 @@
 layout: post
 title: Gear Nerd Problems
 modified:
-categories: gear
+categories: 
 excerpt:
 comments: true
 tags: []

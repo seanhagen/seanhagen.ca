@@ -2,7 +2,7 @@
 
 title:            Sean Hagen.ca
 locale:           en_US
-url: http://seanhagen.ca
+# url: https://seanhagen.ca
 
 # Jekyll configuration
 
@@ -44,7 +44,7 @@ image:
 owner:
   name: Sean Patrick Hagen
   avatar: th_drkrug2.gif
-  bio: "Just a Vancouver coder"
+  bio: "Vancouver based programmer who also does stuff with D&D and video games."
   email: sean.hagen@gmail.com
   disqus-shortname: seanhagenca
   twitter: seanhagen
@@ -72,6 +72,8 @@ owner:
   weibo: #username
   flickr: rebelcan
   codepen: #username
+  youtube: UCtiOKGxaqjI7ZqTS2xtb97g
+  twitch: seanphagen
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
