@@ -18,8 +18,19 @@ I'm a developer living in near Vancouver, British Columbia. I've worked for a wi
 
 Lately I've started doing some more creating stuff. I'm a co-host on the [DMs of Vancouver](http://dmsofvancouver.ca), a podcast that goes over a variety of topics about D&D and being a DM. I'm also a co-host on a soon-to-be-released podcast; A Guy, a Girl, and a Vampire Slayer -- a Buffy the Vampire Slayer re-watch podcast. 
 
-I've also got a review/Let's Play series I'm doing on YouTube where I play through my entire Steam library, reviewing each game once I'm done.
+I've also got a review/Let's Play series I'm doing on YouTube where I play
+through my entire Steam library, reviewing each game once I'm done. You can find
+links to my YouTube channel & Twitch channel over on the left, under my name --
+as well as links to a bunch of other places you can find me online.
 
 ### Anything Else?
 
 I'm also learning how to do more hardware based stuff with [Arduino](9) and the [Raspberry Pi](10). I'm not the best at soldering yet, but I'm getting better.
+
+### Social?
+
+You can find me on [Twitter](https://twitter.com/seanhagen) and [Instagram](https://www.instagram.com/seanpatrickhagen/).
+
+Like what I'm doing?
+
+<a href="https://www.patreon.com/bePatron?u=834033" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
