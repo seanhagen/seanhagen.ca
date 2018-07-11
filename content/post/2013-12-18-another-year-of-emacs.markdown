@@ -5,7 +5,6 @@ categories:
 comments: true
 date: 2013-12-18T00:00:00Z
 title: Another Year of Emacs
-url: /2013/12/18/another-year-of-emacs/
 ---
 
 So, the year is almost over.

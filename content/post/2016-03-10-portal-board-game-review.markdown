@@ -8,7 +8,6 @@ image:
 modified: null
 tags: []
 title: Portal Board Game Review
-url: /2016/03/10/portal-board-game-review/
 ---
 
 Last weekend I picked up "[Portal: The Uncooperative Cake Acquisition Game](https://cryptozoic.com/portal-uncooperative-cake-acquisition-game)".

@@ -8,7 +8,6 @@ image:
 modified: null
 tags: []
 title: Fortnite Fun
-url: /2017/07/25/fortnite-fun/
 ---
 
 I'm going to say this right out of the gate: I think I'm going to spend too much

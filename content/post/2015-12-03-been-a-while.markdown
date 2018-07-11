@@ -9,7 +9,6 @@ modified: null
 tags:
 - post
 title: Been a While
-url: /2015/12/03/been-a-while/
 ---
 
 So, it's been a while, huh?

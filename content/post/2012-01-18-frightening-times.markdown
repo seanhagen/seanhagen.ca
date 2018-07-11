@@ -6,7 +6,6 @@ tags:
 - SOPA
 - scary
 title: Frighting Times
-url: /2012/01/18/frightening-times/
 ---
 
 If SOPA and PROTECT-IP had happened 15 years ago, we wouldn't have sites like Google, Facebook, Twitter, YouTube. We wouldn't have services like Wordpress, or any other blogging platform. What'd be the point in blogging when your entire site could be taken down because of one comment you didn't even write yourself? Smartphones and tablets probably wouldn't have happened, because what's the point in having all sorts of fun apps when the site could be taken down due to an app that some company thought infringed their IP? Open source probably wouldn't be the amazing driving force it is today, and goodly portion of software out there today ( including games ) wouldn't exist.

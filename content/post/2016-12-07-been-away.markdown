@@ -8,7 +8,6 @@ image:
 modified: null
 tags: []
 title: Been Away
-url: /2016/12/07/been-away/
 ---
 
 So, looks like my attempt to keep up the blogging thing failed. And looking back

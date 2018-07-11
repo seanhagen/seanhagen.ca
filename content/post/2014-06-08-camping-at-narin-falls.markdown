@@ -3,7 +3,6 @@ categories: camping,outdoors,bc parks,summer
 comments: true
 date: 2014-06-08T21:27:51Z
 title: Camping At Narin Falls
-url: /2014/06/08/camping-at-narin-falls/
 ---
 
 I went camping with my girlfriend this weekend at Narin Falls. It was pretty awesome. We went up on Friday night, and came back Sunday afternoon. Overall, it was a blast.

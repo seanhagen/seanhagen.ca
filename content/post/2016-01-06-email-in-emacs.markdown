@@ -9,7 +9,6 @@ modified: null
 tags:
 - emacs
 title: Email in Emacs
-url: /2016/01/06/email-in-emacs/
 ---
 
 So as part of my plans for the new year is consolidating my tools. The first thing that I've done is start to use Emacs and [Mu4e](http://www.djcbsoftware.nl/code/mu/mu4e.html) to handle all my email.

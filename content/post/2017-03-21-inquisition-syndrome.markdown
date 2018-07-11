@@ -8,7 +8,6 @@ image:
 modified: null
 tags: []
 title: Inquisition Syndrome
-url: /2017/03/21/inquisition-syndrome/
 ---
 
 It's Tuesday, and I'm a bit hungover, so instead of doing real work I'm going to
@@ -51,7 +50,7 @@ didn't watch any of the other trailers, I knew nothing about the story, or
 exactly what kind of game it was -- but that world premiere video had completely
 sold me. It was a beautiful world that I wanted to play in.
 
-{{< figure src="/images/horizon-zero-dawn.jpeg" title="title:"Seriously, this game is goddamn beautiful." alt:"Horizon: Zero Dawn art"" >}}
+< figure src="/images/horizon-zero-dawn.jpeg" title:"Seriously, this game is goddamn beautiful." alt:"Horizon: Zero Dawn art" >
 
 Once I got the game, I was quickly hooked. Again, here was a video game world
 full of adventure and mystery -- and I wanted to explore. The starting area of
@@ -66,19 +65,16 @@ to the desert mesas or to the thick jungle. Those mountains in the distance? Go
 climb them, and see a breathtaking sunrise. That tiny bird in the distance is
 actually a gigantic flying bird filled with thunder and hate.
 
-{{< figure src="/images/hzd-flying.jpeg" title="title:"Fuck these guys, seriously" alt:"Horizon: Zero Dawn - Stormbird art"" >}}
+< figure src="/images/hzd-flying.jpeg" title:"Fuck these guys, seriously" alt:"Horizon: Zero Dawn - Stormbird art" >
 
 Coupled with a story that makes you want to explore every nook and cranny of
 this big world, Horizon is a fantastic game.
 
-So last night I started
-playing
-[Mass Effect: Andromeda](https://en.wikipedia.org/wiki/Mass_Effect:_Andromeda). A
-game I've been looking forward to with hesitation, because Mass Effect 3 burned
-me pretty hard. Don't get me wrong, I've replayed the entire Mass Effect series
-a bunch of times, along with all of the DLC. I'm a big fan. But the end of ME3
-was... troubling. If you want a good long in-depth read that pretty much
-accurately reflects my thoughts as well, go check out [Shamus Young's novel-length
+So last night I started playing [Mass Effect:
+Andromeda](https://en.wikipedia.org/wiki/Mass_Effect:_Andromeda). A game I've
+been looking forward to with hesitation, because Mass Effect 3 burned me pretty
+hard. Don't get me wrong, I've replayed the entire Mass Effect series a bunch of
+times, along with all of the DLC. I'm a big fan. But the end of ME3 was... troubling. If you want a good long in-depth read that pretty much accurately reflects my thoughts as well, go check out [Shamus Young's novel-length
 series on Mass Effect](http://www.shamusyoung.com/twentysidedtale/?p=27792) --
 it's a good read, seriously, go check it out.
 
@@ -141,7 +137,7 @@ in the game world. There's different types of terrain -- you start in a
 mountainous area with arboreal forests. After that, there's some lowlands style
 forests & plains, then a place that reminds of the area around Mesa, Arizona.
 
-{{< figure src="/images/Mesa-AZ.jpg" title="title:"Almost a desert, but with more green" alt:"Arizona"" >}}
+< figure src="/images/Mesa-AZ.jpg" title:"Almost a desert, but with more green" alt:"Arizona" >
 
 Later on, you find the jungle section of the world, which has a completely
 different feel from the other areas you've visited. The jungle feels crowded,
@@ -177,7 +173,7 @@ things to punch and slice" was more important than immersion. It feels like a
 game from the 90s that they just scaled the maps up by 100x and then slapped
 prettier graphics on top.
 
-{{< figure src="/images/darksiders2empty.jpg" title="title:"So empty. So boring." alt:"Darksiders 2"" >}}
+< figure src="/images/darksiders2empty.jpg" title:"So empty. So boring." alt:"Darksiders 2" >
 
 So if we scored each games on just how good their open world feels, I'd give
 Horizon a 10, and Darksiders 2 a 1, and Dragon Age: Inquisition would probably

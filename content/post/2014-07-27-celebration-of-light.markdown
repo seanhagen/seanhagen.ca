@@ -5,7 +5,6 @@ categories:
 comments: true
 date: 2014-07-27T16:33:34Z
 title: Celebration of Light
-url: /2014/07/27/celebration-of-light/
 ---
 
 Yesterday I hung out on the beach for an afternoon, and watched some fireworks.

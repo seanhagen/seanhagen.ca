@@ -8,7 +8,6 @@ image:
 modified: null
 tags: []
 title: Heading Into 2016
-url: /2016/01/01/heading-into-2016/
 ---
 
 So it's the end of another year. I didn't write a post last year, but after [seeing this post](http://whatthefuck.computer/blog/2015/01/01/2014-how-did-i-do/), I figured I should make a record of things that I want to try and accomplish in the new year. This isn't a list of resolutions, just some stuff I want to try and get done.

@@ -7,7 +7,6 @@ categories:
 comments: true
 date: 2013-11-13T00:00:00Z
 title: 'CascadiaJS Workshop: JavaScript Best Practices'
-url: /2013/11/13/cascadiajs-workshop-javascript-best-practices/
 ---
 
 So, this is going to be a bit of a stream-of-consciousness. I'm going to be taking notes on the interesting stuff from this talk, because I'm sure there are going to be things that I don't already know about that I'll want to refer to later.

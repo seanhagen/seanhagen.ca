@@ -5,7 +5,6 @@ categories:
 comments: true
 date: 2014-12-29T23:24:56Z
 title: Personal Metrics
-url: /2014/12/29/personal-metrics/
 ---
 
 So, last weekend I finally made a purchase I've been thinking about for a few months now. I picked up the [FitBit Aria](https://www.fitbit.com/aria) and the [FitBit Flex](https://www.fitbit.com/flex).

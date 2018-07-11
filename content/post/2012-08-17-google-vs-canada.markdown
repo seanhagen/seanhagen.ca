@@ -6,7 +6,6 @@ categories:
 comments: true
 date: 2012-08-17T00:00:00Z
 title: Google VS Canada
-url: /2012/08/17/google-vs-canada/
 ---
 
 Let me start by saying that I'm a big fan of Google. Even before they started branching out from search into areas like email and whatnot. I'm pretty sure I've signed up for most of their betas. I signed up fro the GMail beta, Google Voice right after they bought Grand Central, Google Music when they announced it, as well as Google Plus, and not to mention Google Wallet.

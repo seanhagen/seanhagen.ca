@@ -6,7 +6,6 @@ categories:
 comments: true
 date: 2014-01-07T00:00:00Z
 title: Stupid Article Is Stupid
-url: /2014/01/07/stupid-article-is-stupid/
 ---
 
 If you want to experience the odd emotion of "laughing at something while being angry at it", [go check out this article](1). Titled "12 Reasons to Join Vancouver's Tech Revolution in 2014", it's pretty much just a poorly written ad for [CodeCore.ca](2), an "intensive 8-week course" that teaches you how to be a developer. [Kimli](3) has some great things to say about this article, and I wanted to dive into a few points, and make a few more. I'm not going the list route though, because I think getting that to work in Octopress would be a pain-in-the-ass.

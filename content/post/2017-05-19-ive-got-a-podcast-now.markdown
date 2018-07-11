@@ -8,7 +8,6 @@ image:
 modified: null
 tags: []
 title: I've Got a Podcast Now
-url: /2017/05/19/ive-got-a-podcast-now/
 ---
 
 Well, this is certainly something to blog about.

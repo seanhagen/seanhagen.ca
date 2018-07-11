@@ -10,7 +10,6 @@ modified: null
 tags:
 - travel christmas horrible
 title: Merry Christmas, Ya Filthy Animal
-url: /2016/12/23/merry-christmas-ya-filthy-animal/
 ---
 
 It has not been a good 48 hours. Also, I'm an idiot.

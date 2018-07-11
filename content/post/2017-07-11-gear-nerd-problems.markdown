@@ -8,7 +8,6 @@ image:
 modified: null
 tags: []
 title: Gear Nerd Problems
-url: /2017/07/11/gear-nerd-problems/
 ---
 
 So the [D&D podcast](/2017/05/ive-got-a-podcast-now/) is going well. I've also recorded the first episode of a

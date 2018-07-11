@@ -6,7 +6,6 @@ categories:
 comments: true
 date: 2014-01-05T00:00:00Z
 title: Getting Into Electronics
-url: /2014/01/05/getting-into-electronics/
 ---
 
 I got something pretty awesome for Christmas this year:

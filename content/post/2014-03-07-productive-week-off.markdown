@@ -7,7 +7,6 @@ categories:
 comments: true
 date: 2014-03-07T00:00:00Z
 title: Productive Week Off
-url: /2014/03/07/productive-week-off/
 ---
 
 So, I start at a new job on Monday.

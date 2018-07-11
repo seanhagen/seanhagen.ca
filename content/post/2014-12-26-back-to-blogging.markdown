@@ -4,7 +4,6 @@ categories:
 comments: true
 date: 2014-12-26T18:12:11Z
 title: Back To Blogging
-url: /2014/12/26/back-to-blogging/
 ---
 
 It has been waaaay too long since I've written a blog post. The last one I wrote was back in July, right after the Celebration of Lights. Things have been a bit crazy since then.

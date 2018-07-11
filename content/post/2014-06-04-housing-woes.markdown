@@ -7,7 +7,6 @@ comments: true
 date: 2014-06-04T13:13:32Z
 published: true
 title: Housing Woes
-url: /2014/06/04/housing-woes/
 ---
 
 So, I've been a "home-owner" for about two years now. I actually managed to get a pretty good deal for my place -- the bathroom and kitchen had been renovated in the year previous, and the previous owners also put down hardwood laminate. When it initially went on the market, it was priced at about $220,000. After being on the market for a year, I managed to get the place for $196,000. A pretty good deal, as far as I'm concerned.

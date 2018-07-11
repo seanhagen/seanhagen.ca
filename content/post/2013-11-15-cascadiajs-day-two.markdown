@@ -7,7 +7,6 @@ categories:
 comments: true
 date: 2013-11-15T00:00:00Z
 title: CascadiaJS Day Two
-url: /2013/11/15/cascadiajs-day-two/
 ---
 
 Last day of the conference! I'm a little beat from yesterday. We had the [Hacking Olympics][1], and while my team didn't place it was still a ton of fun. Time to start this thing!

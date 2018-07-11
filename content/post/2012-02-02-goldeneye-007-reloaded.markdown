@@ -4,7 +4,6 @@ categories:
 comments: true
 date: 2012-02-02T00:00:00Z
 title: 'Goldeneye 007: Reloaded'
-url: /2012/02/02/goldeneye-007-reloaded/
 ---
 
 So about thirteen days ago I received one of the games from my GameAccess.ca queue in the mail. The game that I got was Goldeneye 007: Reloaded. This is basically the original Goldeneye 007 ( from 1997 for the Nintendo N64 ) redone for the PS3 and Xbox 360. I got the Xbox version -- I didn't really have a preference, I chose the Xbox version because I was browsing through the Xbox section of the site when I saw it.

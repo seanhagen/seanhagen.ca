@@ -6,7 +6,6 @@ categories:
 comments: true
 date: 2014-01-14T00:00:00Z
 title: MintyBoost Progress
-url: /2014/01/14/mintyboost-progress/
 ---
 
 So, this past weekend I put together the [MintyBoost][1] that I got in the mail last week.

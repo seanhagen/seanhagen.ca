@@ -6,7 +6,6 @@ categories:
 comments: true
 date: 2012-04-16T00:00:00Z
 title: CBC Under Attack For Online Music Service
-url: /2012/04/16/cbc-under-attack-for-online-music-service/
 ---
 
 It seems like all the Canadian media companies are up in arms over the newly launched web app from CBC:&nbsp;[music.cbc.ca](http://music.cbc.ca/)&nbsp;. My understanding is that this web app lets users play music that they could listen to on any of the CBC radio channels ( let's just assume the user happens to tune in at the right time to hear a particular song ).

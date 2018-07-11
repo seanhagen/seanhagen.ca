@@ -6,7 +6,6 @@ categories:
 comments: true
 date: 2013-12-11T00:00:00Z
 title: Learning Erlang
-url: /2013/12/11/learning-erlang/
 ---
 
 For a little while now, I've been thinking about learning a new programming language. So far, I've got a few languages under my belt. I work regularly with PHP and JavaScript nowadays, and I'm pretty big fan of Ruby. I started with Perl -- although I don't think I could program in it right now if my life depended on it. I learned Java in the past when I was going to college, but I haven't had much reason to pick it up over the last few years. I taught myself C++ a few years ago because I wanted to try and make a game, and at the time C++ was the natural language for that.

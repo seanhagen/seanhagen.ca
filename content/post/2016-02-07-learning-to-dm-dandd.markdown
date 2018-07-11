@@ -9,7 +9,6 @@ tags:
 - dungeons and dragons
 - learning
 title: Learning to DM D&D
-url: /2016/02/07/learning-to-dm-dandd/
 ---
 
 I've recently got into playing Dungeons & Dragons, [DM](https://en.wikipedia.org/wiki/Dungeon_Master)-ing for two groups of friends.

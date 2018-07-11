@@ -7,7 +7,6 @@ categories:
 comments: true
 date: 2015-01-28T12:31:45Z
 title: Uprading To A New Nexus
-url: /2015/01/28/upgrading-to-a-new-nexus/
 ---
 
 I'm in the market for a new cell phone. I have been for the past year or so. First I was putting off getting a new phone because I was waiting for the [Nexus 6](https://play.google.com/store/devices/details/Nexus_6_32_GB_Midnight_Blue?id=nexus_6_blue_32gb). At the time I started wanting a new phone, the Nexus 6 was still just "whatever phone Google comes out with next". It wasn't named, I didn't know specs, I didn't know when it was going to be released.

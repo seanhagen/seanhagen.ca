@@ -4,7 +4,6 @@ categories:
 comments: true
 date: 2012-02-01T00:00:00Z
 title: How About A Let's Play?
-url: /2012/02/01/how-about-a-lets-play/
 ---
 
 So I'm thinking about doing a [Let's Play](http://lparchive.org/faq) series of my own.

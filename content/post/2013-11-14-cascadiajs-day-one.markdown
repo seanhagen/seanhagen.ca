@@ -7,7 +7,6 @@ categories:
 comments: true
 date: 2013-11-14T00:00:00Z
 title: CascadiaJS Day One
-url: /2013/11/14/cascadiajs-day-one/
 ---
 
 Another live blog! This time, it's Day One of [CascadiaJS][1]!

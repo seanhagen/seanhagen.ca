@@ -6,7 +6,6 @@ categories:
 comments: true
 date: 2014-01-10T00:00:00Z
 title: Disassembling Things For Fun ( No Profit )
-url: /2014/01/10/disassembling-things-for-fun-no-profit/
 ---
 
 When I got my Arduino Uno, it made me realize that I've got a ton of stuff laying around that could supply me with parts. For the longest time I've had a bin of old cell phones, mp3 players, and some other random things that I was thinking of just tossing or taking to a pawn shop. When I got the Arduino though, I realized that it's a great source for quite a few things:

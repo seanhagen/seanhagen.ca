@@ -7,7 +7,6 @@ categories:
 comments: true
 date: 2014-04-15T00:00:00Z
 title: 3D For Fun And Profit
-url: /2014/04/15/3d-for-fun-and-profit/
 ---
 
 The project that I've been working on at ThoughtShop is almost ready to show off. There have been a few interesting snags that I've run into while getting the project all set up on the hardware that's going to end up in the showroom.

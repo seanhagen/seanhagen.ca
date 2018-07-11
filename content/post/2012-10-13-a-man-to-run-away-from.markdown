@@ -10,7 +10,6 @@ categories:
 comments: false
 date: 2012-10-13T00:00:00Z
 title: A Man To Run Away From
-url: /2012/10/13/a-man-to-run-away-from/
 ---
 
 Recently, I left a job at the Vancouver Film School to join a company started by a local businessman. I chose to take this job because the pay was good, and it would give me the opportunity to work with a good friend of mine.

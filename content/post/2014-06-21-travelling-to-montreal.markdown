@@ -7,7 +7,6 @@ comments: true
 date: 2014-06-21T06:07:40Z
 published: false
 title: Travelling To Montreal
-url: /2014/06/21/travelling-to-montreal/
 ---
 
 And so begins our one week vacation in Montreal, Quebec City, and the surrounding area!

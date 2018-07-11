@@ -8,7 +8,6 @@ image:
 modified: null
 tags: []
 title: Thinking About Patreon
-url: /2017/07/28/thinking-about-patreon/
 ---
 
 I'm pretty close to getting my whole Twitch/YouTube thing set up. I've talked to

@@ -5,7 +5,6 @@ categories:
 comments: true
 date: 2014-07-16T22:29:27Z
 title: Trip To Quebec
-url: /2014/07/16/trip-to-quebec/
 ---
 
 So a few weeks ago Marie and I went on a trip to Quebec. The main reason was that we were going to her high school reunion. We also just needed a week off. It's also been a while since either of has had time off, so we figured we'd take a whole week and have some fun. We spent a few nights in Montreal, and then spent some time wandering around Quebec.

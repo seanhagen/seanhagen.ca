@@ -7,7 +7,6 @@ comments: true
 date: 2013-12-19T00:00:00Z
 published: false
 title: After The Book Ends
-url: /2013/12/19/after-the-book-ends/
 ---
 
 So I just finished reading the book "[Ready Player One](1)".

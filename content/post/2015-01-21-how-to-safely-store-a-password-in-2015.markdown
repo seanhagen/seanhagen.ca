@@ -5,7 +5,6 @@ categories:
 comments: true
 date: 2015-01-21T20:01:31Z
 title: How To Safely Store A Password In 2015
-url: /2015/01/21/how-to-safely-store-a-password-in-2015/
 ---
 
 I stumbled onto Coda Hale's post about how to [safely store a password](http://codahale.com/how-to-safely-store-a-password/) earlier this week. In it, he discusses how to safely store a users' password on your system in order to authenticate that user.

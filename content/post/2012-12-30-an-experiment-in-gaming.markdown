@@ -6,7 +6,6 @@ categories:
 comments: true
 date: 2012-12-30T00:00:00Z
 title: An Experiment In Gaming
-url: /2012/12/30/an-experiment-in-gaming/
 ---
 
 So today I'm going to start an experiment. For the last few months, I feel like I've been too busy to really get back into video games. As New Years Eve is just around the corner, I figured now is as good a time as any to change that.

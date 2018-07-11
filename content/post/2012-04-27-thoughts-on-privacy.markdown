@@ -4,7 +4,6 @@ categories:
 comments: true
 date: 2012-04-27T00:00:00Z
 title: Thoughts On Privacy
-url: /2012/04/27/thoughts-on-privacy/
 ---
 
 Now that [Google Drive](https://drive.google.com/) has been released, people are once again talking about privacy issues.

@@ -8,7 +8,6 @@ image:
 modified: null
 tags: []
 title: GRPC Gateway & Honeycomb
-url: /2018/07/09/grpc-gateway-and-honeycomb/
 ---
 
 So at work lately I've been looking into [GRPC](https://grpc.io). It's a really

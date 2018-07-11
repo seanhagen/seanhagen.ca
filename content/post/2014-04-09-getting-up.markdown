@@ -7,7 +7,6 @@ categories:
 comments: true
 date: 2014-04-09T00:00:00Z
 title: Getting Up
-url: /2014/04/09/getting-up/
 ---
 
 So, last month I mentioned [that I had talked to a doctor](/2014/03/productive-week-off/). When I talked to her she mentioned that I should exercise more, as well as trying to have a more regular sleep schedule.

@@ -6,7 +6,6 @@ categories:
 comments: true
 date: 2014-01-23T00:00:00Z
 title: Awesome Week
-url: /2014/01/23/awesome-week/
 ---
 
 So, this week has been pretty awesome.

@@ -7,7 +7,6 @@ categories:
 comments: true
 date: 2012-07-11T00:00:00Z
 title: Upgrade Woes
-url: /2012/07/11/upgrade-woes/
 ---
 
 For a while now, I've wanted to upgrade my phone to the Galaxy Nexus. It's got a ton of features, not least of which is the fact that it comes with Android 4.0 ( upgradeable to 4.1 now! ). I've been able to experience a lot of the 4.0 goodness using a [custom rom](http://forum.xda-developers.com/showthread.php?t=1450962), like the voice search/typing, the Android version of the Chrome browser, and a lot of the other things that make Android 4.0 pretty awesome.

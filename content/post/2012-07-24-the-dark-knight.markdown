@@ -6,7 +6,6 @@ categories:
 comments: true
 date: 2012-07-24T00:00:00Z
 title: The Dark Knight Rises
-url: /2012/07/24/the-dark-knight/
 ---
 
 Last night I saw the midnight showing of The Dark Knight rises. Before I go any further, I will say this: the movie was incredible. The plot, the pacing, the cinematography, the _everything_&nbsp;was just superb. Go see this movie. You will not regret it. I sure didn't.
