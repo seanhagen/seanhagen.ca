@@ -2,3 +2,7 @@ baseURL: https://seanhagen.ca
 disablePathToLower: true
 languageCode: en-us
 title: Sean Hagen.ca
+theme: hugo-photo-theme
+
+permalinks:
+  post: "/:year/:month/:title/"
