@@ -31,6 +31,3 @@ I'm also learning how to do more hardware based stuff with [Arduino](9) and the 
 
 You can find me on [Twitter](https://twitter.com/seanhagen) and [Instagram](https://www.instagram.com/seanpatrickhagen/).
 
-Like what I'm doing?
-
-<a href="https://www.patreon.com/bePatron?u=834033" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>

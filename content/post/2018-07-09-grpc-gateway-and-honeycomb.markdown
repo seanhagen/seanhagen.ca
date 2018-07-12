@@ -250,5 +250,5 @@ srv := grpc.NewServer(srvOpts...)
 {{< / highlight >}}
 
 And blamo, you've got your server setup so that it can add more spans to your
-Honeycomb traces!
+Honeycomb traces! 
 
