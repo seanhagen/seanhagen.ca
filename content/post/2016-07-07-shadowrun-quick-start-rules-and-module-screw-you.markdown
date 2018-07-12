@@ -71,9 +71,9 @@ What kind of stuff is missing? Just stuff like spell descriptions. Or gear descr
 
 Each of the characters has at least one weapon. For example, the Street Samurai character has a pistol with a stat line like so:
 
-```
-Ceska Black Scorpion [Machine Pistol, DV 4P, AP -, SA/BF, RC (1), 35c, w/integral folding stock, smartlink]
-```
+
+`Ceska Black Scorpion [Machine Pistol, DV 4P, AP -, SA/BF, RC (1), 35c, w/integral folding stock, smartlink]`
+
 
 The rules go over what some of that means. DV is Damage Value ( the P means physical, because argh ). AP is armour penetration. SA is semi-automatic. And here's where I run out of information, because none of the other things are discussed in the rules. I'm pretty sure BF means burst fire, but I don't have the rules for that, so no burst fire! RC? What's that? Good question! Glad you asked. "35c" -- no idea what that means. Another weapon has "8(m)", which doesn't help me figure out what it means. Does an "integral folding stock" or a "smartlink" help a player in any way? I'd love to tell you, but apparently that's need-to-know information that isn't important right now so hush.
 

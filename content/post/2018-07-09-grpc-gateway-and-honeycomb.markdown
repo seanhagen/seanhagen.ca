@@ -106,7 +106,7 @@ context, and parsing that metadata in the GRPC service.
 
 First part: sending the metadata!
 
-Not much to it. First, create a metadata annotator. See, the GPRC Gateway uses
+Not much to it. First, create a metadata annotator. The GPRC Gateway uses
 this function that you define to add metadata to the context that it uses to
 make a request to the GRPC service. 
 
@@ -154,11 +154,11 @@ and use that to set up our new context.
 {{< highlight go >}}
 func CreateEvent(ctx context.Context) *libhoney.Event {
     ev := libhoney.NewEvent()
+    newID := uuid.NewV4()
     
     md, ok := metadata.FromIncomingContext(ctx)
 
     // check to see if this request is already part of a trace
-    newID := uuid.NewV4()
     if ok {
         tmp, ok := md["trace.trace_id"]
         if ok {
@@ -232,6 +232,9 @@ func GetStreamInterceptor() grpc.StreamServerInterceptor {
     }
 }
 {{< / highlight >}}
+
+Full disclosure: I haven't done any streaming stuff with GRPC yet, so I can't
+100% vouch for the streaming interceptor working.
 
 Okay! Now that you've got those functions, time to setup your server to use
 them. Wherever you're setting up your GRPC server, do the following:

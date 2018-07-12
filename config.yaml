@@ -5,9 +5,8 @@ PygmentsStyle: "monokai"
 languageCode: en-us
 title: Sean Hagen.ca
 theme: hugo-photo-theme
-
-indexes:
-  post: "posts"
+publishDir: _site
+ignoreFiles: ["Gruntfile.js$", "package.json$"]
 
 permalinks:
   post: "/:year/:month/:title/"
@@ -26,7 +25,7 @@ params:
     social:
       email: sean.hagen@gmail.com
       disqus-shortname: seanhagenca
-      twitter: seanhagen
+      twitter: seanphagen
       google:
         plus: SeanPatrickHagen
       github: seanhagen
@@ -34,7 +33,7 @@ params:
       linkedin: seanpatrickhagen
       instagram: seanpatrickhagen
       pinterest: seanhagen
-      steam: seanhagen
+      steam: seanphagen
       flickr: rebelcan
       youtube: UCtiOKGxaqjI7ZqTS2xtb97g
       twitch: seanphagen
