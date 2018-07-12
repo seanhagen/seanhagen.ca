@@ -1,8 +1,38 @@
 baseURL: https://seanhagen.ca
 disablePathToLower: true
+PygmentsCodeFences: true
+PygmentsStyle: "monokai"
 languageCode: en-us
 title: Sean Hagen.ca
 theme: hugo-photo-theme
 
 permalinks:
   post: "/:year/:month/:title/"
+
+params:
+  disqus: "whwhwh"
+  header:
+    feature: window-cropped
+    credit: Sean Patrick Hagen
+    creditlink: https://www.flickr.com/photos/rebelcan/12754943013/in/datetaken-public/
+  author:
+    avatar: th_drkrug2.gif
+    name: Sean Patrick Hagen
+    bio: Vancouver based programmer who also does stuff with D&D and video games.
+    social:
+      email: sean.hagen@gmail.com
+      disqus-shortname: seanhagenca
+      twitter: seanhagen
+      google:
+        plus: SeanPatrickHagen
+        analytics: UA-247363-4
+      github: seanhagen
+      stackoverflow: 62225/sean-hagen
+      linkedin: seanpatrickhagen
+      instagram: seanpatrickhagen
+      pinterest: seanhagen
+      steam: seanhagen
+      flickr: rebelcan
+      youtube: UCtiOKGxaqjI7ZqTS2xtb97g
+      twitch: seanphagen
+      patreon: seanpatrickhagen
