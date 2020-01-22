@@ -3,6 +3,7 @@ title: About Sean
 layout: about
 tags: [about, sean]
 modified: 2014-08-08T20:53:07.573882-04:00
+slug: about
 header:
   feature: neon-cropped
   credit: Sean Hagen
