@@ -22,7 +22,3 @@ point though. The point is that my copy is missing the climax of the book. And
 in the process of trying to get a full copy of the book so I could finish
 reading, I lost all the annotations I made in my Kobo.
 
-
-
-
-
