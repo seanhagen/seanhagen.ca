@@ -8,6 +8,8 @@ theme: hugo-photo-theme
 publishDir: _site
 ignoreFiles: ["Gruntfile.js$", "package.json$"]
 
+enableGitInfo: true
+
 permalinks:
   post: "/:year/:month/:title/"
 
