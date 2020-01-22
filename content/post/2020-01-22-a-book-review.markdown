@@ -2,7 +2,7 @@
 title: "The Swarm vs Invasive"
 comments: true
 categories: book-review
-date: 2020-01-16T11:15:32-08:00
+date: 2020-01-22T11:15:32-08:00
 excerpt: null
 image:
     feature: null
