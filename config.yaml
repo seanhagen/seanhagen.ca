@@ -13,6 +13,14 @@ enableGitInfo: true
 permalinks:
   post: "/:year/:month/:slug"
 
+deployment:
+  targets:
+    name: amazon-aws
+    url: s3://seanhagen.ca
+    cloudFrontDistributionID: E1UWTA6IJ3Q225
+
+disableKinds: ['taxonomy','taxonomyTerm']
+
 params:
   disqus: seanhagenca
   ganalytics: UA-247363-4

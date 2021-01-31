@@ -9,7 +9,7 @@ image:
 modified: null
 tags:
 - shadowrun
-title: Shadowrun Quick-Start Rules & Module&#58; Screw You
+title: "Shadowrun Quick-Start Rules & Module: Screw You"
 ---
 
 Over the last few weeks, I've been running a few different one or two-session games to introduce one group of players to a few different systems. We recently wrapped up a [D&D 5e campaign](http://dnd.wizards.com/products/tabletop-games/rpg-products/rpg_starterset), and I wanted to give them some experience in other systems before choosing one. Last night, we played Shadowrun -- specifically, the [Quick-Start Rules that were released for Free RPG Day 2012](http://drivethrurpg.com/product/103218/Shadowrun-QuickStart-Rules-Free-RPG-Day-2012). The game took two hours, and the entire thing was a trainwreck.
