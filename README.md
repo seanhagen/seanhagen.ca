@@ -1,4 +1,4 @@
 SeanHagen.ca
 =====
 
-- https://themes.gohugo.io/theme/redlounge/post/migrate-from-jekyll/
+This is the markdown for all the posts and whatnot on [my site](https://seanhagen.ca).
