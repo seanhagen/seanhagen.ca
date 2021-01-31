@@ -9,11 +9,12 @@ header:
   feature: neon-cropped
   creditlink: https://www.flickr.com/photos/rebelcan/2309011771
 tags: books thoughts
+draft: true
 ---
 
 Saw this tweet today:
 
-{{< tweet 1219564301029138432 >}}
+{{//< tweet 1219564301029138432 >}}
 
 And I have... feelings.
 

@@ -68,3 +68,8 @@ So starting today, I'm going to be using habit tracking to try and do build some
 habits. Stuff like writing, working on a video game project I've got going, or
 even just taking my medication. Trying not to think about goals and focusing on
 habits is something I think will work well for me.
+
+Oh, one last thing before I go: I don't know if I'm just getting old or if it's
+the laptop I'm writing this post on, but the theme for this site definitely
+needs tweaking. If I can figure out how the theme works, maybe I'll update that
+in the next little while too.
