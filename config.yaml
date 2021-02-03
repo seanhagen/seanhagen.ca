@@ -22,6 +22,11 @@ deployment:
 disableKinds: ['taxonomy','taxonomyTerm']
 
 params:
+  writing:
+    description: >
+      I wanted to start getting into writing stuff other than just
+      blog posts, so I've added this section of my site to have a place to keep 
+      this kind of stuff.
   disqus: seanhagenca
   ganalytics: UA-247363-4
   header:
