@@ -4,9 +4,17 @@ slug: midnight-smoke
 date: 2021-02-02T19:52:38-08:00
 comments: true
 categories: writing
+draft: true
 summary: When a the fires raging in the forests blanket a sleepy town with a
     strange smoke, what will the townsfolk find?
 ---
+
+Tom knew that he had left getting supplies until the last minute, like
+always. The forest fire had been on the news for a few days now. Every report
+had it getting a bit closer to Skeena[^1]. And now that a mandatory evacuation had
+been called he had to wonder if there were any supplies left in town at all. He
+had been watching folks leave town for days now, ever since folks had been able
+to see the glow from the fire at night.
 
 outline:
 
@@ -41,3 +49,5 @@ outline:
 * the countryside has changed, something huge is walking on the horizon 
 * tom & sarah look at each other, and start to talk about what they could do
   next, including just killing themselves
+
+[^1]: General area: https://www.google.com/maps/@54.1983102,-129.880106,11.55z
