@@ -13,6 +13,14 @@ enableGitInfo: true
 permalinks:
   post: "/:year/:month/:slug"
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  
+blackfriday:
+  plainIDAnchors: true
+
 deployment:
   targets:
     name: amazon-aws
@@ -25,7 +33,7 @@ params:
   writing:
     description: >
       I wanted to start getting into writing stuff other than just
-      blog posts, so I've added this section of my site to have a place to keep 
+      blog posts, so I've added this section of my site to have a place to keep
       this kind of stuff.
   disqus: seanhagenca
   ganalytics: UA-247363-4
